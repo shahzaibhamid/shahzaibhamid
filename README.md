@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shahzaib Hamid
 #### Machine learning expert and Data Scientist
-![Machine learning expert and Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/shahzaibhamid/blob/main/0_3HNWowLnPz9sqadH.jpg)
 
  The main fields of my projects are NLP, Computer Vision, Machine Learning, Neural Networks and Reinforcement Learning. I am expert in Python and following are the main libraries and Sub-fields that I am expert in:
 NLP. HuggingFace, NLTK, GloVe, Transformers, Streamlit, Docker, OpenCV, Pandas, NumPy, Scikit-Learn, Recurrent Neural Networks, Convolutional Neural Networks, Artificial Neural Networks and Open AI
