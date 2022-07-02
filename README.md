@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Shahzaib Hamid
-#### Machine learning expert and Data Scientist
+#### Web Developer and Machine Learning Expert
 ![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/shahzaibhamid/blob/main/0_3HNWowLnPz9sqadH.jpg)
 
  The main fields of my projects are in Data Science and Analysis, NLP, Computer Vision, Machine Learning, Neural Networks and Reinforcement Learning. I am expert in Python and I have worked on the following applications:
