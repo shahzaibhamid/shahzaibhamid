@@ -18,9 +18,9 @@
 •	Object Detection
 •	Object Tracking
 
-Skills: Python/SQL/C++/R/MATLAB
+Skills: Python/Flak/FAST API/JS/HTML/CSS/DJANGO/RESTFUL API/SQL/C++
 
-- 🔭 I’m currently working on multiple data sciences projects for clients. 
+- 🔭 I’m currently working on multiple web development and data sciences projects for clients. 
 - 🌱 I’m currently learning about advances in data sciences as well as showcasing my results with streamlit 
 
 
