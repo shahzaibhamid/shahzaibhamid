@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shahzaib Hamid
-#### Generative AI Expert
-![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/shahzaibhamid/blob/main/0_3HNWowLnPz9sqadH.jpg)
+#### Generative AI & NLP Specialist
+![Generative AI & NLP Specialist | AI Data Scientist | LLM & ML Evaluator | Python Expert | GPT, LangChain & Pinecone](https://github.com/shahzaibhamid/shahzaibhamid/blob/main/0_3HNWowLnPz9sqadH.jpg)
 
 The main fields of my projects are in the field of Generative AI. I am expert in Python and I have worked on the following applications:
 
